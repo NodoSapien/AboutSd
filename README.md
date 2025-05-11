@@ -2,7 +2,7 @@
 
 **AboutSd** es una experiencia educativa e interactiva que descompone visualmente la anatomía y funcionamiento interno de una tarjeta SD. Desde la disposición de sus pines hasta el funcionamiento de la memoria flash NAND, este sitio está diseñado para estudiantes, entusiastas y curiosos que quieran comprender cómo se almacenan digitalmente nuestros recuerdos más valiosos.
 
-🌐 Visita el sitio web: [https://438fc16b.heyboss.tech/795d71b6/](https://438fc16b.heyboss.tech/795d71b6/)
+🌐 Visita el sitio web: [AboutSD](https://438fc16b.heyboss.tech/795d71b6/)
 
 ---
 
